@@ -44,7 +44,11 @@ When I'm not writing code, I'm either setting up local LLMs on my home server or
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NeonDakra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="NeonDakra's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonDakra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://leetcard.jacoblin.cool/SIJlHh3yo6?theme=tokyonight&font=syne&ext=activity" alt="LeetCode Stats" />
+</p>
+
+### 🧠 LeetCode Progress
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/NeonDakra?theme=tokyonight&font=syne&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ### 📫 Let's Connect
