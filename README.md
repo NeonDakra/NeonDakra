@@ -40,17 +40,21 @@ When I'm not writing code, I'm either setting up local LLMs on my home server or
 * **English:** Professional working proficiency (B2)
 * **Chinese:** Elementary (HSK 2)
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeonDakra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="NeonDakra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonDakra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Карточка активности (Стрик) -->
+  <img src="https://streak-stats.demolab.com/?user=NeonDakra&theme=tokyonight&hide_border=true" alt="NeonDakra's Streak" />
+  
+  <!-- Карточка языков -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeonDakra&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🧠 LeetCode Progress
 <p align="left">
+  <!-- Карточка LeetCode -->
   <img src="https://leetcard.jacoblin.cool/NeonDakra?theme=tokyonight&font=syne&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ### 📫 Let's Connect
-* **Email:** [@gmail.com]
+* **Email:** [neondakra.ml@gmail.com]
 
