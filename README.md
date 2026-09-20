@@ -43,11 +43,10 @@ When I'm not writing code, I'm either setting up local LLMs on my home server or
 ### 📊 GitHub & LeetCode Stats
 <p align="left">
   <!-- Карточка активности (Стрик) -->
-  <img src="https://streak-stats.demolab.com/?user=NeonDakra&theme=tokyonight&hide_border=true" alt="NeonDakra's Streak" />
-  
-  <!-- Карточка языков -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeonDakra&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=NeonDakra&theme=tokyonight&hide_border=true" alt="NeonDakra's Streak" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeonDakra&theme=tokyonight" alt="Top Languages" />
 </p>
+  <!-- Карточка языков -->
+  
 
 ### 🧠 LeetCode Progress
 <p align="left">
