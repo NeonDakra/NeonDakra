@@ -6,7 +6,7 @@ When I'm not writing code, I'm either setting up local LLMs on my home server or
 
 ### 🧠 Current Focus & Goals
 * **Grinding:** Advanced Algorithms (LeetCode), Classical ML, and Transformers architecture.
-* **Experimenting:** Deploying and testing local LLMs (Qwen, Llama) using LM Studio and custom VPS.
+* **Experimenting:** Running local LLMs (Qwen, Llama) on my home workstation and configuring custom Linux VPS infrastructure.
 * **Goal:** Looking for an **ML Internship (NLP / LLM)** to apply my skills in real-world HighLoad projects and build production-ready AI systems.
 
 ### 🛠 Tech Stack & Tools
@@ -23,6 +23,7 @@ When I'm not writing code, I'm either setting up local LLMs on my home server or
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
@@ -43,6 +44,7 @@ When I'm not writing code, I'm either setting up local LLMs on my home server or
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NeonDakra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="NeonDakra's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonDakra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/Darkra?theme=tokyonight&font=syne&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ### 📫 Let's Connect
